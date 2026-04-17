@@ -1,0 +1,11 @@
+{
+  "submissionId": 65831766,
+  "problemId": 14495,
+  "problemTitle": "피보나치 비스무리한 수열",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 100,
+  "submittedAt": "2023년 8월 30일 14:42:05"
+}

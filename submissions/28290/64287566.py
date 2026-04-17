@@ -1,0 +1,6 @@
+tp = input()
+if tp in ["fdsajkl;", "jkl;fdsa"]:print("in-out")
+elif tp in ["asdf;lkj", ";lkjasdf"]:print("out-in")
+elif tp == "asdfjkl;":print("stairs")
+elif tp == ";lkjfdsa":print("reverse")
+else:print("molu")

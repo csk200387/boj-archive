@@ -1,0 +1,20 @@
+{
+  "problemId": 27899,
+  "title": "먹었습니다!!",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p style=\"text-align: center;\"><img alt=\"'HAPPY GHUDEGY DAY'라고 적힌 포스터. 3D 픽셀 구데기 아트가 그려져 있다. 위에는 '2023년 4월 1에서 2일까지, 오후 12시부터 오전 1시까지'가 적혀 있고, 아랫 줄은 지워져 있다. blob을 표현한 듯한 손그림과 물음표들이 그려져 있다. 아래에는 '구데기컵 * solved.ac 콜라보레이션 카페'가 적혀 있다.\" src=\"https://upload.acmicpc.net/9b6ad2fd-4c85-4125-a945-798becbaa6b4/-/preview/\" style=\"width: 560px;\"></p>",
+  "inputDesc": "<p>입력은 없다.</p>",
+  "outputDesc": "<p>주식회사 구대기의 위도 $\\phi$와 경도 $\\lambda$를 공백으로 구분해 출력한다.</p>\n\n<ul>\n\t<li>$\\phi$는 $-90$ 이상 $90$ 이하의 실수여야 하며, $\\phi&lt;0$인 경우 남위 $\\left|\\phi\\right|$도를, $\\phi&gt;0$인 경우 북위 $\\left|\\phi\\right|$도를 의미한다.</li>\n\t<li>$\\lambda$는 $-180$ 초과 $180$ 이하의 실수여야 하며, $\\lambda&lt;0$인 경우 서경 $\\left|\\lambda\\right|$도를, $\\lambda&gt;0$인 경우 동경 $\\left|\\lambda\\right|$도를 의미한다.</li>\n\t<li>출력하는 실수의 형식은 소수점 아래 $15$자리 이하의 자릿수를 갖는 십진수여야 한다.</li>\n</ul>",
+  "tags": [
+    "성공",
+    "점수",
+    "언어 제한",
+    "번외",
+    "수학",
+    "기하학",
+    "3차원 기하학",
+    "삼분 탐색"
+  ],
+  "fetchedAt": "2026-04-16T21:11:51.460Z"
+}

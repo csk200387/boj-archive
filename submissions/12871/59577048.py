@@ -1,0 +1,1 @@
+a,b=input(),input();print(int(len(a)*b==len(b)*a))

@@ -1,0 +1,16 @@
+{
+  "problemId": 15550,
+  "title": "if 2",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>다음 프로그램을 실행시켰을 때, \"<code>true</code>\"를 출력하는 변수 <code>a, b, c</code>의 자료형과 값을 찾는 프로그램을 작성하시오.</p>\n\n<pre class=\"brush:c++; toolbar:false;\">#include &lt;iostream&gt;\nusing namespace std;\nint main() {\n    ??? a = ???;\n&nbsp;   ??? b = ???;\n&nbsp;   ??? c = ???;\n    if (a == b &amp;&amp; b == c &amp;&amp; c != a) {\n        cout &lt;&lt; \"true\" &lt;&lt; '\\n';\n    } else {\n        cout &lt;&lt; \"false\" &lt;&lt; '\\n';\n    }\n    return 0;\n}</pre>\n\n<p>실행 환경은 BOJ 채점 서버의 C++17 실행 환경과&nbsp;같다.</p>",
+  "inputDesc": "<p>입력은 없다.</p>",
+  "outputDesc": "<p>첫째 줄에 변수 <code>a</code>의 자료형과 값, 둘째 줄에&nbsp;변수 <code>b</code>의 자료형과 값, 셋째 줄에&nbsp;변수 <code>c</code>의 자료형과 값을 공백으로 구분해 출력한다. 자료형은 <code>int</code>,&nbsp;<code>long long</code>,&nbsp;<code>float</code>,&nbsp;<code>double</code>만 가능하다. 출력한 값이 자료형에 알맞지 않은 경우에는 틀리게 된다.</p>\n\n<p>값은 아래 소스가 런타임 에러 없이 읽을 수 있는 값을 의미한다.</p>\n\n<pre class=\"brush:c++; toolbar:false;\">istringstream sin(line);\n자료형 temp;\nassert(sin &gt;&gt; temp);</pre>",
+  "tags": [
+    "성공",
+    "스페셜 저지",
+    "언어 제한",
+    "애드 혹"
+  ],
+  "fetchedAt": "2026-04-16T20:26:53.562Z"
+}

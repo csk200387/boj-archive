@@ -1,0 +1,13 @@
+begin
+    print ("                     .", new line);
+    print ("                    / V\\", new line);
+    print ("                  / `  /", new line);
+    print ("                 <<   |", new line);
+    print ("                 /    |", new line);
+    print ("               /      |", new line);
+    print ("             /        |", new line);
+    print ("           /    \\  \\ /", new line);
+    print ("          (      ) | |", new line);
+    print ("  ________|   _/_  | |", new line);
+    print ("<__________\\______)\\__)");
+end

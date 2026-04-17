@@ -1,0 +1,17 @@
+{
+  "problemId": 27331,
+  "title": "2 桁の整数 (Two-digit Integer)",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p><var>2</var> つの数字 <var>A, B</var> が与えられる．</p>\n\n<p>十の位が <var>A</var> であり，一の位が <var>B</var> である <var>2</var> 桁の正の整数を出力せよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で与えられる．</p>\n\n<pre><var>A</var>\n<var>B</var></pre>",
+  "outputDesc": "<p>十の位が <var>A</var> であり，一の位が <var>B</var> である <var>2</var> 桁の正の整数を出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "구현",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-16T20:49:05.530Z"
+}

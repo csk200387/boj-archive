@@ -1,0 +1,16 @@
+{
+  "problemId": 16423,
+  "title": "To Tell the Truth",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>There are n people in a room, each of whom always tells the truth, or always lies. Each of them makes a statement of the form: “Some number between a and b (inclusive) of us are telling the truth.” What is the maximum number of truth-tellers in the room?</p>",
+  "inputDesc": "<p>Each input will consist of a single test case. Note that your program may be run multiple times on different inputs.</p>\n\n<p>Each test case will begin with a line containing an integer n (1 ≤ n ≤ 1,000) which is the number of people in the room.</p>\n\n<p>Each of the next n lines will have two space-separated integers, a and b (0 ≤ a ≤ b ≤ n). Each line represents the statement of one person that “Some number between a and b (inclusive) of us are telling the truth.”</p>",
+  "outputDesc": "<p>Output a single integer, which is the largest possible number of truth-tellers, or -1 if the statements are inconsistent.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "브루트포스 알고리즘",
+    "애드 혹"
+  ],
+  "fetchedAt": "2026-04-16T20:31:27.468Z"
+}

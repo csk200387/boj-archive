@@ -1,0 +1,11 @@
+{
+  "submissionId": 56432504,
+  "problemId": 21945,
+  "problemTitle": "Palindromes",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C99 / 수정",
+  "codeLength": 829,
+  "submittedAt": "2023년 2월 24일 23:24:57"
+}

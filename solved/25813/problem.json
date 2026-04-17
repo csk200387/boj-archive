@@ -1,0 +1,16 @@
+{
+  "problemId": 25813,
+  "title": "Changing Strings",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>We love our UCF and we are going to change everything to UCF!</p>\n\n<p>Given a string, change the string to UCF as follows:</p>\n\n<ul>\n\t<li>Characters before the leftmost “U” in the string are changed to hyphen (“-”).</li>\n\t<li>Characters after the rightmost “F” in the string are changed to hyphen.</li>\n\t<li>Characters between the leftmost U and the rightmost F are changed to “C”.</li>\n</ul>\n\n<p>Assume the string will contain at least one “U”, at least one “F” after that U, and at least one character between the U and F.</p>",
+  "inputDesc": "<p>There is only one input line; it contains a string of uppercase letters. The string will have at least 3 and at most 50 characters.</p>",
+  "outputDesc": "<p>Print the input string converted to UCF.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현",
+    "문자열"
+  ],
+  "fetchedAt": "2026-04-16T20:45:49.316Z"
+}

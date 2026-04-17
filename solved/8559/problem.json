@@ -1,0 +1,16 @@
+{
+  "problemId": 8559,
+  "title": "Potęga",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Dla danej nieujemnej liczby całkowitej <em>n</em>&nbsp;należy obliczyć cyfrę jedności (ostatnią cyfrę w zapisie dziesiętnym) liczby 2<sup><em>n</em></sup>.</p>\n\n<p>Napisz program, który</p>\n\n<ul>\n\t<li>wczytuje ze standardowego wejścia nieujemną liczbę całkowitą&nbsp;<em>n</em>,</li>\n\t<li>oblicza cyfrę jedności w zapisie dziesiętnym liczby 2<sup><em>n</em></sup>,</li>\n\t<li>wypisuje wynik na standardowe wyjście.</li>\n</ul>",
+  "inputDesc": "<p>Pierwszy i jedyny wiersz wejścia zawiera jedną liczbę całkowitą <em>n</em>, 0 ≤ <em>n</em> ≤ 10<sup>40</sup>.</p>",
+  "outputDesc": "<p>Pierwszy i jedyny wiersz wyjścia powinien zawierać cyfrę jedności w zapisie dziesiętnym liczby 2<em><sup>n</sup></em>.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "문자열"
+  ],
+  "fetchedAt": "2026-04-16T20:03:09.317Z"
+}

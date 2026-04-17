@@ -1,0 +1,1 @@
+print(sorted([*open(0)],key=int)[1],end="")

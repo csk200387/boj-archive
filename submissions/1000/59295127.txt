@@ -1,0 +1,8 @@
+INT sum;
+sum:=read int + read int;
+
+IF sum < 10 THEN
+        printf(($dl$,sum))
+ELSE
+        printf(($2dl$,sum))
+FI

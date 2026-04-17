@@ -1,0 +1,15 @@
+{
+  "problemId": 17466,
+  "title": "N! mod P (1)",
+  "timeLimit": "3 초 (추가 시간 없음)",
+  "memoryLimit": "1024 MB",
+  "description": "<p>양의 정수 N과, N보다 큰 소수 P가 주어질 때, N!을 P로 나눈 나머지를 구하여라.</p>",
+  "inputDesc": "<p>첫째 줄에 N과 P가 공백으로 구분되어 주어진다.</p>",
+  "outputDesc": "<p>N!을 P로 나눈 나머지를 구하여라.</p>",
+  "tags": [
+    "성공",
+    "수학",
+    "정수론"
+  ],
+  "fetchedAt": "2026-04-16T20:34:04.983Z"
+}

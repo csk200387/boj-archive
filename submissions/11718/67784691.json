@@ -1,0 +1,11 @@
+{
+  "submissionId": 67784691,
+  "problemId": 11718,
+  "problemTitle": "그대로 출력하기",
+  "result": "런타임 에러 (FileNotFoundError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 111,
+  "submittedAt": "2023년 10월 10일 16:29:27"
+}

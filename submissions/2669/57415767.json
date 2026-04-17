@@ -1,0 +1,11 @@
+{
+  "submissionId": 57415767,
+  "problemId": 2669,
+  "problemTitle": "직사각형 네개의 합집합의 면적 구하기",
+  "result": "런타임 에러 (NameError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 183,
+  "submittedAt": "2023년 3월 14일 18:26:00"
+}

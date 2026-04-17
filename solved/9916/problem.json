@@ -1,0 +1,18 @@
+{
+  "problemId": 9916,
+  "title": "Zeros",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>The factorial of a positive integer n, written as n!, is the product of the first n positive integers. &nbsp;That is,</p>\n\n<p>n! = 1 × 2 × ... × n</p>\n\n<p>Given a positive integer n, find the number of zeros in the decimal representation of n!. &nbsp;Of course, leading zeros should not be counted. &nbsp;(Note that decimal representation means base ten representation.)</p>",
+  "inputDesc": "<p>The input contains a single positive integer n &lt; 100.</p>",
+  "outputDesc": "<p>The output contains a single integer giving the number of zeros in the decimal representation of n!.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "구현",
+    "사칙연산",
+    "임의 정밀도 / 큰 수 연산"
+  ],
+  "fetchedAt": "2026-04-16T20:07:00.567Z"
+}

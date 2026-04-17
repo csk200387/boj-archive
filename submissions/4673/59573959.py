@@ -1,0 +1,1 @@
+print(*sorted({*range(1,10001)}-{sum(map(int,list(str(i))))+i for i in range(1,10001)}))

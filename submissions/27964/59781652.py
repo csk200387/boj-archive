@@ -1,0 +1,1 @@
+_,t=open(0);print("yummy"if len({*t.split()})>3 else"sad")

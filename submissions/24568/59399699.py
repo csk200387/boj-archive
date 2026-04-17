@@ -1,0 +1,1 @@
+a,b=map(int,open(0));print(a*8+b*3-28)

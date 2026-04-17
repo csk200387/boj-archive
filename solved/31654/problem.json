@@ -1,0 +1,16 @@
+{
+  "problemId": 31654,
+  "title": "Adding Trouble",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>Your friend Bob is really bad at adding numbers, and he’d like some help to make sure he’s doing it correctly! Can you help Bob make sure he is adding correctly? Given 3 integers $A$, $B$, $C$, make sure that $A + B = C$, and that Bob indeed added $A$ and $B$ correctly.</p>",
+  "inputDesc": "<p>The input consists of a single line with 3 integers $A, B, C$ where $-10^9 \\le A, B, C \\le 10^9$.</p>",
+  "outputDesc": "<p>Output either <code>correct!</code> if $A + B = C$, or <code>wrong!</code> if $A + B \\ne C$.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-16T20:57:14.326Z"
+}

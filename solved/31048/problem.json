@@ -1,0 +1,16 @@
+{
+  "problemId": 31048,
+  "title": "Last Factorial Digit",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>The factorial of $N$, written as $N!$, is defined as the product of all the integers from $1$ to $N$. For example, $3! = 1 \\times 2 \\times 3 = 6$.</p>\n\n<p>This number can be very large, so instead of computing the entire product, just compute the last digit of $N!$ (when $N!$ is written in base $10$).</p>",
+  "inputDesc": "<p>The first line of input contains a positive integer $1 \\leq T \\leq 10$, the number of test cases. Each of the next $T$ lines contains a single positive integer $N$. $N$ is at most $10$.</p>",
+  "outputDesc": "<p>For each value of $N$, print the last digit of $N!$.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-16T20:56:07.283Z"
+}

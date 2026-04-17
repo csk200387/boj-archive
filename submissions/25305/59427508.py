@@ -1,0 +1,1 @@
+p,c=map(int,input().split());print(sorted(map(int,input().split()))[-c])

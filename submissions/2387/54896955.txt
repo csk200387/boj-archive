@@ -1,0 +1,18 @@
+PROC printASCIIArt = (REF STRING art)VOID:
+    FOR i TO UPB art DO
+        print((art[i]), newline := "")
+    OD
+    print(newline)
+;
+
+printASCIIArt("                     .
+                    / V\\
+                  / `  /
+                 <<   |
+                 /    |
+               /      |
+             /        |
+           /    \\  \\ /
+          (      ) | |
+  ________|   _/_  | |
+<__________\\______)\\__)")

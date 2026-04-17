@@ -1,0 +1,17 @@
+{
+  "problemId": 20977,
+  "title": "JOI ソート (JOI Sort)",
+  "timeLimit": "2 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>長さ&nbsp;<var>N</var>&nbsp;の文字列&nbsp;<var>S</var>&nbsp;が与えられる．<var>S</var>&nbsp;の各文字は ‘<code>J</code>’，‘<code>O</code>’，‘<code>I</code>’ のいずれかである．</p>\n\n<p>あなたは&nbsp;<var>S</var>&nbsp;の文字を並び替えて次の条件を満たすようにしたい．</p>\n\n<ul>\n\t<li>すべての文字 ‘<code>J</code>’ と文字 ‘<code>O</code>’ の組について ‘<code>J</code>’ が ‘<code>O</code>’ よりも前にある．</li>\n\t<li>すべての文字 ‘<code>O</code>’ と文字 ‘<code>I</code>’ の組について ‘<code>O</code>’ が ‘<code>I</code>’ よりも前にある．</li>\n\t<li>すべての文字 ‘<code>J</code>’ と文字 ‘<code>I</code>’ の組について ‘<code>J</code>’ が ‘<code>I</code>’ よりも前にある．</li>\n</ul>\n\n<p>文字列&nbsp;<var>S</var>&nbsp;が与えられたとき，上の条件を満たすように&nbsp;<var>S</var>&nbsp;の文字を並び替えた文字列を出力するプログラムを作成せよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で標準入力から与えられる．</p>\n\n<p><var>N</var><br>\n<var>S</var></p>",
+  "outputDesc": "<p>条件を満たすように&nbsp;<var>S</var>&nbsp;の文字を並び替えた文字列を出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현",
+    "문자열",
+    "정렬"
+  ],
+  "fetchedAt": "2026-04-16T20:37:48.826Z"
+}

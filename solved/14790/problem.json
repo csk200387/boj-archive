@@ -1,0 +1,16 @@
+{
+  "problemId": 14790,
+  "title": "Tidy Numbers (Small)",
+  "timeLimit": "5 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>Tatiana likes to keep things tidy. Her toys are sorted from smallest to largest, her pencils are sorted from shortest to longest and her computers from oldest to newest. One day, when practicing her counting skills, she noticed that some integers, when written in base 10 with no leading zeroes, have their digits sorted in non-decreasing order. Some examples of this are 8, 123, 555, and 224488. She decided to call these numbers&nbsp;<em>tidy</em>. Numbers that do not have this property, like 20, 321, 495 and 999990, are not tidy.</p>\n\n<p>She just finished counting&nbsp;<em>all</em>&nbsp;positive integers in ascending order from 1 to&nbsp;<strong>N</strong>. What was the last tidy number she counted?</p>",
+  "inputDesc": "<p>The first line of the input gives the number of test cases,&nbsp;<strong>T</strong>.&nbsp;<strong>T</strong>&nbsp;lines follow. Each line describes a test case with a single integer&nbsp;<strong>N</strong>, the last number counted by Tatiana.</p>\n\n<p>Limits</p>\n\n<ul>\n\t<li>1 ≤&nbsp;<strong>T</strong>&nbsp;≤ 100.</li>\n\t<li>1 ≤&nbsp;<strong>N</strong>&nbsp;≤ 1000.</li>\n</ul>",
+  "outputDesc": "<p>For each test case, output one line containing&nbsp;<code>Case #x: y</code>, where&nbsp;<code>x</code>&nbsp;is the test case number (starting from 1) and&nbsp;<code>y</code>&nbsp;is the last tidy number counted by Tatiana.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "브루트포스 알고리즘"
+  ],
+  "fetchedAt": "2026-04-16T20:25:38.494Z"
+}

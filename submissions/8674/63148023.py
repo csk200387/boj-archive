@@ -1,0 +1,1 @@
+a,b=map(int,input().split());print(min(a,b)if a%2!=0and b%2!=0else 0)

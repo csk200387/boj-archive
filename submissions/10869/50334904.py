@@ -1,0 +1,8 @@
+inputNum = input("").split(" ")
+a = int(inputNum[0])
+b = int(inputNum[1])
+print(a+b)
+print(a-b)
+print(a*b)
+print(a//b)
+print(a%b)

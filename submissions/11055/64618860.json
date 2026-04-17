@@ -1,0 +1,11 @@
+{
+  "submissionId": 64618860,
+  "problemId": 11055,
+  "problemTitle": "가장 큰 증가하는 부분 수열",
+  "result": "맞았습니다!!",
+  "memory": 31256,
+  "time": 244,
+  "language": "Python 3 / 수정",
+  "codeLength": 265,
+  "submittedAt": "2023년 8월 5일 20:38:24"
+}

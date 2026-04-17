@@ -1,0 +1,19 @@
+{
+  "problemId": 20094,
+  "title": "Sudoku 1",
+  "timeLimit": "1 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>Fereydun, the legendary Persian hero whose prophecy was to overcome Zahhak, believes that he needs a powerful mind together with a powerful body. He has just learned a new brain teaser, called Sudoku, from a Japanese trader.&nbsp;</p>\n\n<p>Sudoku is played on a board that is a grid of $n^2 \\times n^2$ cells. The whole grid is also partitioned into $n^2$ sub-grids, each of size $n \\times n$. Each cell can be empty or contain an integer from $1$ to $n^2$ (inclusive). A Sudoku board is valid if it meets the following conditions:</p>\n\n<ol>\n\t<li>All numbers in each row are distinct.</li>\n\t<li>All numbers in each column are distinct.</li>\n\t<li>All numbers in each sub-grid are distinct.</li>\n</ol>\n\n<p>The following figure shows two valid Sudoku boards with no empty cells:</p>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"https://upload.acmicpc.net/34e9cbc7-57f2-4ee6-b890-e1fa4e4d4833/-/preview/\" style=\"width: 320px; height: 198px;\"></p>\n\n<p>Fereydun has a valid board with some empty cells and has asked for your help. Your task is to fill as many empty cells as you can while keeping the board valid. It is guaranteed that there is at least one way to fill all the empty cells while keeping the board valid.&nbsp;</p>\n\n<p>This is an output-only problem, so no source code submission is required. There are $10$ test cases. For each test case, you are given an input file containing a table $A$ as the initial state of a Sudoku board, and your task is to submit an output file containing a table $B$ as the final state of that Sudoku board after filling some of its empty cells. All $A[i][j]$ and $B[i][j]$ values (for $1 \\leq i,j \\leq n^2$)&nbsp;are integers between $0$ and $n^2$&nbsp;(inclusive), where value $0$ indicates an empty cell.</p>",
+  "inputDesc": "<p>The input is in the following format:</p>\n\n<ul>\n\t<li>line $1$: $\\;\\;n$</li>\n\t<li>line $1+i$ (for $1 \\leq i \\leq n^2$): $\\;\\; A[i][1] \\;\\; A[i][2] \\;\\ldots \\; A[i][n^2]$</li>\n</ul>",
+  "outputDesc": "<p>The output must be in the following format:</p>\n\n<ul>\n\t<li>line $i$ (for $1 \\leq i \\leq n^2$): $\\;\\; B[i][1] \\;\\; B[i][2] \\;\\ldots \\; B[i][n^2]$</li>\n</ul>",
+  "tags": [
+    "성공",
+    "점수",
+    "다국어",
+    "언어 제한",
+    "구현",
+    "해 구성하기",
+    "휴리스틱"
+  ],
+  "fetchedAt": "2026-04-16T20:36:36.589Z"
+}

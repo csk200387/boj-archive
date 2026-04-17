@@ -1,0 +1,15 @@
+{
+  "problemId": 5292,
+  "title": "Counting Swann’s Coins",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Governor Weatherby Swann orders you to count the number of coins in the government treasury. To make the job more interesting you decide to say ”Dead” for all numbers that are a multiple of 3 and ”Man” for all numbers that are a multiple of 5. For numbers that are multiples of both 3 and 5 you say ”DeadMan”.</p>\n\n<p> </p>",
+  "inputDesc": "<p>The input will be the number of coins you need to count.</p>",
+  "outputDesc": "<p>The output will be the numbers and words in sequence, separated by spaces. Start a new line after each word.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-16T19:57:10.058Z"
+}

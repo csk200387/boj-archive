@@ -1,0 +1,16 @@
+{
+  "problemId": 5393,
+  "title": "Collatz",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>In the process to solve the Collatz conjecture, better known as the 3n + 1 problem, Carl created a physical model with wood and ropes. A wooden bar contains a hole for every natural number from 1 to inﬁnity from left to right. For every even number m there is a rope connecting the mth hole with hole m/2. For every odd number n there is a rope connecting the nth hole with hole 3n + 1.</p>\n\n<p>For an important conference where Carl plans to elaborate on his results, he wants to bring his structure, but it is too large to ﬁt in his bag. So he decided to saw oﬀ the part of the bar containing the ﬁrst N holes only. How many ropes will he need to cut?</p>",
+  "inputDesc": "<p>The ﬁrst line of the input contains a single number: the number of test cases to follow. Each test case has the following format:</p>\n\n<ul>\n\t<li>One line with an integer N, satisfying 0 ≤ N ≤ 10<sup>9</sup>.</li>\n</ul>",
+  "outputDesc": "<p>For every test case in the input, the output should contain a single number, on a single line: the number of ropes that need to be cut.</p>",
+  "tags": [
+    "실패",
+    "다국어",
+    "보기",
+    "수학"
+  ],
+  "fetchedAt": "2026-04-16T20:59:18.545Z"
+}

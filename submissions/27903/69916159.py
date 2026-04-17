@@ -1,0 +1,1 @@
+print(*list(map(lambda x:chr(ord(x)-69), '¨¸°wuux}|')),sep="")

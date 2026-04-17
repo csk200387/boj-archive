@@ -1,0 +1,1 @@
+t=input();print(*sorted([t[i:] for i in range(len(t))]))

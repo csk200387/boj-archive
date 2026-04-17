@@ -1,0 +1,16 @@
+{
+  "problemId": 31614,
+  "title": "分 (Minutes)",
+  "timeLimit": "2 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>整数 <var>H, M</var> が与えられる．</p>\n\n<p><var>H</var> 時間 <var>M</var> 分が何分かを求めよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で与えられる．</p>\n\n<pre><var>H</var>\n<var>M</var></pre>",
+  "outputDesc": "<p><var>H</var> 時間 <var>M</var> 分が何分かを，単位 (分) を省いて出力せよ．</p>\n\n<p>答え以外は何も出力しないこと．(入力を促す文章なども出力しないこと．)</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-16T20:57:04.147Z"
+}

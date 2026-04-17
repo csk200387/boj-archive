@@ -1,0 +1,1 @@
+n,*a=map(int,open(0));print(sum([i-1 for i in a])+1)

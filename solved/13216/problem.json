@@ -1,0 +1,17 @@
+{
+  "problemId": 13216,
+  "title": "Badminton",
+  "timeLimit": "1 초",
+  "memoryLimit": "64 MB",
+  "description": "<p>Anisa (Player A) and Ben (Player B) are playing a singles badminton match. Here are the basic badminton rules:</p>\n\n<ul>\n\t<li>To win a match, a player needs to win 2 out of 3 games.</li>\n\t<li>The first player to reach 21 points wins the game. (A different rule applies when the players are tied 20-20. You may assume this case does not happen.)</li>\n\t<li>Either player can score a point no matter who serves.</li>\n\t<li>After a game is won, a new game begins and the score resets to 0-0.</li>\n</ul>",
+  "inputDesc": "<p>A sequence of A’s and B’s that records which player scored for each serve.</p>",
+  "outputDesc": "<p>The score and who wins the match (A or B).</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현",
+    "문자열",
+    "시뮬레이션"
+  ],
+  "fetchedAt": "2026-04-16T20:22:07.591Z"
+}

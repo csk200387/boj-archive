@@ -1,0 +1,1 @@
+print((d:=input())[:(t:=len(d)//2)],d[t:])

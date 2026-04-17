@@ -1,0 +1,16 @@
+{
+  "problemId": 8633,
+  "title": "Sortowanie biżuterii",
+  "timeLimit": "1 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>Małgosia odziedziczyła po wujku kolekcję drogocennej biżuterii. Zastała w skarbcu artystyczny nieład i postanowiła go uporządkować. Wskład biżuterii wchodzą kolie składające się z cennych i rzadkich kamieni szlachetnych. Żadne dwa z nich nie są jednakowe. Pomóż Małgosi uporządkować drogocenny zbiór.</p>\n\n<p>Opracuj program, który:</p>\n\n<ul>\n\t<li>wczyta ze standardowego wejścia opisy biżuterii,</li>\n\t<li>uporządkuje je według rosnącej długości, a te, które są równej długości uporządkuje leksykograficznie,</li>\n\t<li>posortowane łańcuchy wypisze na standardowe wyjście.</li>\n</ul>\n\n<p>Łańcuchy o równej długości powinny być uporządkowane leksykograficznie-spośród dwóch różnych łańcuchów równej długości mniejszy jest ten, który ma mniejszy znak na pierwszej różniącej się pozycji.</p>",
+  "inputDesc": "<p>W pierwszym wierszu wejścia znajduje się liczba łańcuchów do analizy $N$&nbsp;($N \\le 150$), a w kolejnych $N$&nbsp;wierszach znajdują się opisy poszczególnych elementów biżuterii. Opis każdego z nich składa się z niepustego łańcucha małych liter alfabetu łacińskiego ('a'..'z') odpowiadających użytym kamieniom, o długości nie przekraczającej $200$&nbsp;znaków.</p>",
+  "outputDesc": "<p>W kolejnych wierszach wypisz kolejno uporządkowane rosnąco łańcuchy, po jednym w każdym wierszu.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "문자열",
+    "정렬"
+  ],
+  "fetchedAt": "2026-04-16T20:03:18.221Z"
+}

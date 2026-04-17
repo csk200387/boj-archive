@@ -1,0 +1,1 @@
+print(max(0,len({*open(0)})-2))

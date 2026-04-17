@@ -1,0 +1,15 @@
+{
+  "problemId": 9724,
+  "title": "Perfect Cube",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>A perfect cube is an integer whose cube root is also an integer. For example 1, 8, 27, 64, 125, etc. are examples of perfect cubes but 9, 25 and 113 are not. Given two positive integers A and B, your task is to calculate the number of perfect cubes in the given range between A and B inclusively.&nbsp;</p>",
+  "inputDesc": "<p>The first line has a positive integer T, T &lt;= 100000, denoting the number of test cases. This is followed by each test case per line.</p>\n\n<p>Each test case consists of a single line containing two integers A and B separated by a single space. 1 ≤ A ≤ B ≤ 2,000,000,000.</p>",
+  "outputDesc": "<p>For each test case, output contains a line in the format Case #x: M, where x is the case number (starting from 1) and M is the number of perfect cubes in the given range between A and B inclusive.&nbsp;</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학"
+  ],
+  "fetchedAt": "2026-04-16T20:06:48.050Z"
+}

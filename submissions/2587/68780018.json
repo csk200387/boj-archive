@@ -1,0 +1,11 @@
+{
+  "submissionId": 68780018,
+  "problemId": 2587,
+  "problemTitle": "대표값2",
+  "result": "런타임 에러 (NullPointer)",
+  "memory": 0,
+  "time": 0,
+  "language": "Java 11 / 수정",
+  "codeLength": 620,
+  "submittedAt": "2023년 11월 2일 23:24:04"
+}

@@ -1,0 +1,19 @@
+{
+  "problemId": 16998,
+  "title": "It’s a Mod, Mod, Mod, Mod World",
+  "timeLimit": "5 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>You are given multiple problems with three integers p, q, and n. Find \\(\\displaystyle\\sum_{i=1}^{n}{((p \\cdot i) \\text{ mod } q)}\\). That is, the first n multiples of p, modulo q, summed. Note that the overall sum has no modulus.</p>",
+  "inputDesc": "<p>Each input will begin with a line with a single integer W (1 ≤ W ≤ 10<sup>5</sup>), which is the number of cases you must solve.</p>\n\n<p>Each of the next W lines will contain three space-separated integers p, q and n (1 ≤ p, q, n ≤ 10<sup>6</sup>), which are the parameters of the problem as described above.</p>",
+  "outputDesc": "<p>Output W lines, each with the answer for a given instance of the problem, in the order that they appear in the input.</p>",
+  "tags": [
+    "실패",
+    "다국어",
+    "보기",
+    "수학",
+    "정수론",
+    "유클리드 호제법",
+    "유리 등차수열의 내림 합"
+  ],
+  "fetchedAt": "2026-04-16T21:00:11.845Z"
+}

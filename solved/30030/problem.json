@@ -1,0 +1,15 @@
+{
+  "problemId": 30030,
+  "title": "스위트콘 가격 구하기",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p style=\"text-align: center;\"><img alt=\"통조림 이미지\" src=\"https://upload.acmicpc.net/fab029a6-3a8b-447f-86c6-46707d953823/-/preview/\" width=\"200px\"></p>\n\n<p>스위트콘의 가격은 $A$원이다. $A$는 $100$의 배수이다. 그런데, 스위트콘에 부가가치세 $10\\%$를 포함하니 가격이 $B$원이 되었다.</p>\n\n<p>부가가치세를 포함한 가격 $B$가 주어질 때, 이를 제외한 가격 $A$를 구해보자.</p>",
+  "inputDesc": "<p>첫째 줄에 정수 $B(1\\, 100\\le B\\le 9\\, 900)$가 주어진다. $B$는 $11$의 배수이다.</p>",
+  "outputDesc": "<p>첫째 줄에 부가가치세를 제외한 가격 $A$를 출력한다.</p>",
+  "tags": [
+    "성공",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-16T20:54:10.827Z"
+}

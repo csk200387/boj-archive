@@ -1,0 +1,15 @@
+{
+  "problemId": 28125,
+  "title": "2023 아주머학교 프로그래딩 정시머힌",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>2023 APC를 총괄하고 있는 A.N.S.I 부회장 현빈이는 문제들을 검수하던 중 이상한 점을 발견하였다. 그것은 몇몇 단어들이 비슷하게 생겼지만, 다른 철자로 되어있었던 것이었다. 어리둥절한 현빈이는 누가 이러한 짓을 저질렀는지 고민하던 와중, 어제 선우와 했던 대화가 문득 떠올랐다.</p>\n\n<p style=\"text-align: center;\">[그림 1] 실제 대화 내용이다.</p>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"https://upload.acmicpc.net/8745d46f-b9e7-46a9-bc51-a41ad94eff0e/-/preview/\" style=\"width: 450px; height: 353px;\"></p>\n\n<p>가뜩이나 A.N.S.I 부회장으로서 바쁜 현빈이는 철자가 바뀐 단어들을 다시 원래대로 고치기가 매우 귀찮았다. 다행히도 현빈이는 평소 선우가 어떠한 철자를 바꾸는지 알고 있다. 선우는 알파벳 소문자에 대해서만 철자를 바꾸며, 목록은 다음과 같다.</p>\n\n<table align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" class=\"table table-bordered\" style=\"width: 500px;\">\n\t<caption>[표 1] 선우가 바꾸는 철자 목록</caption>\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">원본</th>\n\t\t\t<th scope=\"col\">수정본</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>a</td>\n\t\t\t<td>@</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>c</td>\n\t\t\t<td>[</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>i</td>\n\t\t\t<td>!</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>j</td>\n\t\t\t<td>;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>n</td>\n\t\t\t<td>^</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>o</td>\n\t\t\t<td>0</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>t</td>\n\t\t\t<td>7</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>v</td>\n\t\t\t<td>\\'</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>w</td>\n\t\t\t<td>\\\\\\'</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"text-align: center;\"> </p>\n\n<p>철자가 바뀐 단어들을 보며 어지러웠던 현빈이는 단어에 있는 알파벳의 절반 이상이 바뀌어 있으면 해석을 포기하기로 하였다. 표를 참고하여 현빈이가 주어지는 단어들을 해석할 수 있는지 알아보자.</p>",
+  "inputDesc": "<p>첫 번째 줄에는 정수 $N$이 주어진다. $(1 \\leq N \\leq 100)$ 두 번째 줄에는 $N$줄에 걸쳐 선우가 바꾸어 놓은 단어들이 주어진다. 선우가 바꾼 단어는 본래 알파벳 소문자로만 구성되어 있었으며, 단어의 길이는 $100$ 이하이다.</p>",
+  "outputDesc": "<p>현빈이가 주어진 단어를 해석할 수 있다면 선우가 바꾸기 전의 원래 단어를, 해석을 포기했다면 <span style=\"color:#e74c3c;\"><code>I don't understand</code></span>를 $N$줄에 걸쳐 출력한다.</p>",
+  "tags": [
+    "성공",
+    "구현",
+    "문자열"
+  ],
+  "fetchedAt": "2026-04-16T20:51:06.681Z"
+}

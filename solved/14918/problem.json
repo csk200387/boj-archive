@@ -1,0 +1,17 @@
+{
+  "problemId": 14918,
+  "title": "더하기",
+  "timeLimit": "1 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>두 개의 정수 입력 a, b를 받아서 a+b를 출력하시오.</p>\n\n<p>C 입출력 예제</p>\n\n<pre>#include &lt;stdio.h&gt;\n…\nscanf(“%d%d”, &amp;a, &amp;b);\nprintf(“%d\\n”, a+b);</pre>\n\n<p>C++ 입출력 예제</p>\n\n<pre>#include &lt;iostream&gt;\n…\ncin &gt;&gt; a &gt;&gt; b;\ncout &lt;&lt; a+b &lt;&lt; endl;</pre>\n\n<p>JAVA 입출력 예제</p>\n\n<pre>import java.util.Scanner;\nScanner sc = new Scanner(System.in);\na = sc.nextInt();\nb = sc.nextInt();\nSystem.out.println((a+b));</pre>",
+  "inputDesc": "<p>a b; a와 b는 -100,000과 100,000 사이의 정수이다.</p>",
+  "outputDesc": "<p>a+b</p>",
+  "tags": [
+    "성공",
+    "번외",
+    "수학",
+    "구현",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-16T21:05:38.029Z"
+}

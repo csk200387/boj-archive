@@ -1,0 +1,15 @@
+{
+  "problemId": 2372,
+  "title": "Livestock Count",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Print a table that describes the current count of all your livestock.</p>",
+  "outputDesc": "<p>Print the table below as shown. The character “-”, is a dash not an underscore.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "언어 제한",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-16T19:42:10.201Z"
+}

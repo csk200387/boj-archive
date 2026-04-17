@@ -1,0 +1,11 @@
+{
+  "submissionId": 75467807,
+  "problemId": 5582,
+  "problemTitle": "공통 부분 문자열",
+  "result": "맞았습니다!!",
+  "memory": 236392,
+  "time": 804,
+  "language": "PyPy3 / 수정",
+  "codeLength": 225,
+  "submittedAt": "2024년 3월 22일 12:50:03"
+}

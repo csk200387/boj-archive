@@ -1,0 +1,15 @@
+{
+  "problemId": 14337,
+  "title": "Helicopter",
+  "timeLimit": "1 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>Write a program that displays the helicopter as seen below.</p>",
+  "outputDesc": "<p>Displays the helicopter, with no extra blank spaces. In particular, a line must not end with a blank space.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "언어 제한",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-16T20:24:01.800Z"
+}

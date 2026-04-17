@@ -1,0 +1,15 @@
+{
+  "problemId": 7120,
+  "title": "String",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>It sometimes happens that a button on the computer keyboard sticks and then in the printed text there are more than one identical letters. For example, the word \"piano\" can change into \"ppppppiaanooooo\".</p>\n\n<p>Your task is to write a program that corrects these errors: finds all the places within the given string, where identical letters follow each other and replaces them with one letter- that is, erases all the other identical letters and adds the remaining part of the string onto the end of the one remaining letter.</p>",
+  "inputDesc": "<p>The first line of the input is a string containing only lowercase latin letters. The string is at most 250 symbols in length.</p>",
+  "outputDesc": "<p>Output the corrected string in the first line of the output.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "문자열"
+  ],
+  "fetchedAt": "2026-04-16T20:01:56.322Z"
+}

@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+class Main {
+    public static void main(String args[]) {
+        Scanner sc = new Scanner(System.in);
+        int[] arr = new int[10000];
+        int n = sc.nextInt();
+        int i, p;
+        for (i = 0; i < n; i++) {
+            p = sc.nextInt();
+            arr[p-1]++;
+        }
+        for (i = 0; i < 10000; i++) {
+            if (arr[i] > 0) {
+                for (int t = 0; t < arr[i]; t++) {
+                    System.out.println(i+1);  
+                }
+            }
+        }
+    }
+}

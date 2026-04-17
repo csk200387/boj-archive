@@ -1,0 +1,1 @@
+print(max([10000+d1*1000 if d1==d2==d3 else 1000+d1*100 if d1==d2 or d3==d1 else 1000+d2*100 if d2==d3 else d1*100 if d1>d2 and d1>d3 else d2*100 if d2 > d1 and d2>d3 else d3*100 for d1,d2,d3 in[map(int, input().split())for _ in range(int(input()))]]))

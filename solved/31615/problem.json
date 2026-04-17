@@ -1,0 +1,16 @@
+{
+  "problemId": 31615,
+  "title": "桁 (Digit)",
+  "timeLimit": "2 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p><var>2</var> つの整数 <var>A,B</var> が与えられる．</p>\n\n<p><var>A</var> と <var>B</var> の和は十進法で表したとき何桁であるか求めよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で与えられる．</p>\n\n<pre><var>A</var>\n<var>B</var></pre>",
+  "outputDesc": "<p><var>A</var> と <var>B</var> の和は十進法で表したとき何桁であるか，単位 (桁) を省いて出力せよ．</p>\n\n<p>答え以外は何も出力しないこと．(入力を促す文章なども出力しないこと．)</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-16T20:57:08.100Z"
+}

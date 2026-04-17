@@ -1,0 +1,8 @@
+program hello_world
+  write(*,*) ',~'
+  write(*,*) '( 9> //)'
+  write(*,*) ' )(_///'
+  write(*,*) '( \_>/'
+  write(*,*) ' \__/'
+  write(*,*) '  ^^'
+end program hello_world

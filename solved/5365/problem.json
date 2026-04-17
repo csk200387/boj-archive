@@ -1,0 +1,16 @@
+{
+  "problemId": 5365,
+  "title": "Decoder",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>All the Sith messages are sent using a complex coding scheme. You have cracked their code and must write a program to decode coded messages. Their code works as follows. Each word in the coded message represents one letter in the decoded message. Use the first letter of the first word and for each subsequent word use the nth letter where n is the length of the previous word. If the previous word is longer than the current word the current word represents a “space” (i.e., a blank space).</p>\n\n<p>Here are two example:</p>\n\n<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>Coded Message</th>\n\t\t\t<th>Decode Message</th>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<pre>A Tree\nSome one too a sas\n</pre>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<pre>AT\nS o s\n</pre>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+  "inputDesc": "<p>A positive integer, n, on the first line. After the first line there will be n words that represent the coded message.</p>",
+  "outputDesc": "<p>The decoded message on one line.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현",
+    "문자열"
+  ],
+  "fetchedAt": "2026-04-16T19:57:53.494Z"
+}

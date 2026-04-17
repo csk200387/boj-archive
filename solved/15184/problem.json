@@ -1,0 +1,16 @@
+{
+  "problemId": 15184,
+  "title": "Letter Count",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>Shona is a linguistics student who has an assignment to analyse letter distribution in sentences taken from various sources. Your task is to write a program to help her.</p>\n\n<p>The problem is to plot a graph showing how many of each letter appear in the sentence supplied. Upper and lower case letters are considered the same letter. Characters that are not letters of the English alphabet are ignored.</p>",
+  "inputDesc": "<p>The input consists of a single line of text of no more than 250 characters. At least one character will be a letter.</p>",
+  "outputDesc": "<p>Output consists of a graph with 26 horizontal bars. The letters of the alphabet (upper case) form the y axis, in alphabetical order from top to bottom. Each is followed by a space, a vertical bar, another space then a star for every time that letter appears in the supplied text. There are no spaces between the stars.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현",
+    "문자열"
+  ],
+  "fetchedAt": "2026-04-16T20:26:28.422Z"
+}

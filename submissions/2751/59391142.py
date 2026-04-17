@@ -1,0 +1,1 @@
+n,*m=open(0);m.sort(key=int);print(*m,sep="")

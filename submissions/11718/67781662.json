@@ -1,0 +1,11 @@
+{
+  "submissionId": 67781662,
+  "problemId": 11718,
+  "problemTitle": "그대로 출력하기",
+  "result": "런타임 에러 (AccessControl)",
+  "memory": 0,
+  "time": 0,
+  "language": "Java 11 / 수정",
+  "codeLength": 283,
+  "submittedAt": "2023년 10월 10일 15:41:47"
+}

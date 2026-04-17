@@ -1,0 +1,16 @@
+{
+  "problemId": 25801,
+  "title": "Odd/Even Strings",
+  "timeLimit": "1 초 (추가 시간 없음)",
+  "memoryLimit": "1024 MB",
+  "description": "<p>Consider a string containing lowercase letters only. We call the string odd if every letter in the string appears an odd number of times. Similarly, we call the string even if every letter in the string appears an even number of times.</p>\n\n<p>Given a string, determine if it is odd or even.</p>",
+  "inputDesc": "<p>There is only one input line; it contains a string of lowercase letters only. The string will contain 1 to 60 letters (inclusive).</p>",
+  "outputDesc": "<p>Print 0 (zero) if the string is even, 1 (one) if the string is odd, and 0/1 (zero and one with a slash in between) if it is neither.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현",
+    "문자열"
+  ],
+  "fetchedAt": "2026-04-16T20:45:45.189Z"
+}

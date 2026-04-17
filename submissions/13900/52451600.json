@@ -1,0 +1,11 @@
+{
+  "submissionId": 52451600,
+  "problemId": 13900,
+  "problemTitle": "순서쌍의 곱의 합",
+  "result": "시간 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 147,
+  "submittedAt": "2022년 12월 7일 12:59:17"
+}

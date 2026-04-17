@@ -1,0 +1,11 @@
+{
+  "submissionId": 50366612,
+  "problemId": 1715,
+  "problemTitle": "카드 정렬하기",
+  "result": "런타임 에러 (RecursionError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 248,
+  "submittedAt": "2022년 10월 11일 00:55:45"
+}

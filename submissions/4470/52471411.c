@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main() {
+	int a, i;
+	scanf("%d ", &a);
+	char *arr[a];
+	for (i = 0; i < a; i++) {
+		gets(arr[i]);
+	}
+	for (i = 0; i < a; i++) {
+		printf("%d. %s", (i+1), arr[i]);
+	}	
+}

@@ -1,0 +1,17 @@
+{
+  "problemId": 27328,
+  "title": "三方比較 (Three-Way Comparison)",
+  "timeLimit": "2 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p><var>2</var> つの整数 <var>A, B</var> が与えられる．</p>\n\n<p><var>A</var> と <var>B</var> の大小を比較し，<var>A ＜ B</var> ならば <var>-1</var> を，<var>A ＝ B</var> ならば <var>0</var> を，<var>A ＞ B</var> ならば <var>1</var> を出力せよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で標準入力から与えられる．</p>\n\n<pre><var>A</var>\n<var>B</var></pre>",
+  "outputDesc": "<p><var>A ＜ B</var> ならば <var>-1</var> を，<var>A ＝ B</var> ならば <var>0</var> を，<var>A ＞ B</var> ならば <var>1</var> を出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "구현",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-16T20:49:02.448Z"
+}

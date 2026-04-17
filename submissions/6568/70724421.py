@@ -1,0 +1,33 @@
+mem = list(map(lambda x:int(x, 2), open(0)))
+adder = 0
+pc = 0
+while True:
+    cmd = mem[pc] // (2**5)
+    value = mem[pc] % (2**5)
+    pc += 1
+    pc %= 32
+    match cmd:
+        case 0:
+            mem[value] = adder
+        case 1:
+            adder = mem[value]
+        case 2:
+            if adder == 0b0:
+                pc = value
+        case 3:
+            pass
+        case 4:
+            if adder == 0b0:
+                adder = 0b11111111
+            else:
+                adder += 1
+        case 5:
+            if adder == 0b11111111:
+                adder = 0b0
+            else:
+                adder += 1
+        case 6:
+            pc = value
+        case 7:
+            break
+print(f"{adder:08b}")

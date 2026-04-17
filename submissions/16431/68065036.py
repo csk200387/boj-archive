@@ -1,0 +1,8 @@
+a,b = map(int, input().split())
+c,d = map(int, input().split())
+e,f = map(int, input().split())
+bessie = abs(e-a)+abs(f-b)
+daisy = max(abs(e-c),abs(f-d))
+if bessie < daisy:print("bessie")
+elif bessie > daisy:print("daisy")
+else:print("tie")

@@ -1,0 +1,11 @@
+{
+  "submissionId": 51728987,
+  "problemId": 17466,
+  "problemTitle": "N! mod P (1)",
+  "result": "맞았습니다!!",
+  "memory": 114328,
+  "time": 760,
+  "language": "PyPy3 / 수정",
+  "codeLength": 97,
+  "submittedAt": "2022년 11월 15일 14:46:53"
+}

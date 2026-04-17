@@ -1,0 +1,17 @@
+{
+  "problemId": 31611,
+  "title": "火曜日 (Tuesday)",
+  "timeLimit": "2 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>整数 <var>X</var> が与えられる．</p>\n\n<p>今日は日曜日である．今日の <var>X</var> 日後が火曜日であるならば <var>1</var> を，そうでないならば <var>0</var> を出力せよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で与えられる．</p>\n\n<pre><var>X</var></pre>",
+  "outputDesc": "<p>今日の <var>X</var> 日後が火曜日であるならば <var>1</var> を，そうでないならば <var>0</var> を出力せよ．</p>\n\n<p>答え以外は何も出力しないこと．(入力を促す文章なども出力しないこと．)</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "구현",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-16T20:56:59.338Z"
+}

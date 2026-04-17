@@ -1,0 +1,11 @@
+{
+  "submissionId": 69968951,
+  "problemId": 27738,
+  "problemTitle": "연산자 파티",
+  "result": "런타임 에러 (ZeroDivisionError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 188,
+  "submittedAt": "2023년 12월 3일 14:17:43"
+}

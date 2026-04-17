@@ -1,0 +1,1 @@
+_,t=open(0);print("yummy"if len({i for i in t.split()if i.endswith("Cheese")})>3 else"sad")

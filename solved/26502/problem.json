@@ -1,0 +1,16 @@
+{
+  "problemId": 26502,
+  "title": "Decoder",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>All the First Order messages are sent using an encryption scheme. You have cracked their code and must write a program to decode their messages. Their code works as follows. The table below is used to replace all of the vowels in the original message (plaintext) with a different vowel to create the encrypted message.</p>\n\n<table class=\"table table-bordered table-center-20\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>Original</th>\n\t\t\t<td>a</td>\n\t\t\t<td>e</td>\n\t\t\t<td>i</td>\n\t\t\t<td>o</td>\n\t\t\t<td>u</td>\n\t\t\t<td>y</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th>Replacement</th>\n\t\t\t<td>y</td>\n\t\t\t<td>a</td>\n\t\t\t<td>e</td>\n\t\t\t<td>i</td>\n\t\t\t<td>o</td>\n\t\t\t<td>u</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+  "inputDesc": "<p>A positive integer, n, on the first line. After the first line there will be n lines of encrypted text.</p>",
+  "outputDesc": "<p>The n lines of decoded text.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현",
+    "문자열"
+  ],
+  "fetchedAt": "2026-04-16T20:47:11.977Z"
+}

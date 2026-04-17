@@ -1,0 +1,15 @@
+{
+  "problemId": 4562,
+  "title": "No Brainer",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Zombies love to eat brains. Yum.</p>",
+  "inputDesc": "<p>The first line contains a single integer&nbsp;<i>n</i>&nbsp;indicating the number of data sets.</p>\n\n<p>The following&nbsp;<i>n</i>&nbsp;lines each represent a data set. Each data set will be formatted according to the following description:</p>\n\n<p>A single data set consists of a line \"<tt>X Y</tt>\", where&nbsp;<i>X</i>&nbsp;is the number of brains the zombie eats and&nbsp;<i>Y</i>&nbsp;is the number of brains the zombie requires to stay alive.</p>",
+  "outputDesc": "<p>For each data set, there will be exactly one line of output. This line will be \"MMM BRAINS\" if the number of brains the zombie eats is greater than or equal to the number of brains the zombie requires to stay alive. Otherwise, the line will be \"NO BRAINS\".</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-16T19:54:54.606Z"
+}

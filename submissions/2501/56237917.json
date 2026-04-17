@@ -1,0 +1,11 @@
+{
+  "submissionId": 56237917,
+  "problemId": 2501,
+  "problemTitle": "약수 구하기",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C99 / 수정",
+  "codeLength": 287,
+  "submittedAt": "2023년 2월 21일 21:02:12"
+}

@@ -1,0 +1,1 @@
+import re;print(len(re.findall('[aiueo]',open(0).read())))

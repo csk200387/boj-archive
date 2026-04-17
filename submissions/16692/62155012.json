@@ -1,0 +1,11 @@
+{
+  "submissionId": 62155012,
+  "problemId": 16692,
+  "problemTitle": "Greedy Scheduler",
+  "result": "맞았습니다!!",
+  "memory": 116408,
+  "time": 260,
+  "language": "PyPy3 / 수정",
+  "codeLength": 407,
+  "submittedAt": "2023년 6월 16일 19:40:20"
+}

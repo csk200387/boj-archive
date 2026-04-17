@@ -1,0 +1,16 @@
+{
+  "problemId": 18005,
+  "title": "Even or Odd?",
+  "timeLimit": "1 초 (추가 시간 없음)",
+  "memoryLimit": "512 MB",
+  "description": "<p>Your friend has secretly picked <em>n</em> consecutive positive integers between 1 and 10<sup>18</sup> and wants you to guess if their sum is even or odd.</p>\n\n<p>If the sum must be even, write 2. If the sum must be odd, write 1. If the sum could be even or could be odd, write 0.</p>",
+  "inputDesc": "<p>The single line of input contains a single integer <em>n</em>&nbsp;(1 ≤ <em>n</em> ≤ 10<sup>9</sup>).</p>",
+  "outputDesc": "<p>Output 2 if the sum of any <em>n</em> consecutive integers in the range from 1 to 10<sup>18</sup> must be even, 1 if the sum must be odd, or 0 if the sum could be either even or odd.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "정수론"
+  ],
+  "fetchedAt": "2026-04-16T20:35:00.101Z"
+}

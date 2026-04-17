@@ -1,0 +1,17 @@
+{
+  "problemId": 10174,
+  "title": "팰린드롬",
+  "timeLimit": "1 초",
+  "memoryLimit": "256 MB",
+  "description": "<p>팰린드롬은 앞으로 읽으나 뒤로 읽으나 똑같은 단어나 숫자들을 말한다. 일반적으로 대소문자를 구분하지 않지만, <strong>공백은 구분</strong>한다.</p>\n\n<p>다음은 팰린드롬의 예시이다.</p>\n\n<ul>\n\t<li>Anna</li>\n\t<li>Harrah</li>\n\t<li>Arora</li>\n\t<li>Nat tan</li>\n\t<li>9998999</li>\n\t<li>123 321</li>\n\t<li>\\$\\$\\$&amp;&amp;\\$\\$\\$</li>\n</ul>\n\n<p>모든 라인에 대해 팰린드롬인지 아닌지를 구분하는 프로그램을 작성하시오.</p>",
+  "inputDesc": "<p>첫째 줄에 테스트 케이스의 개수 n이 주어진다.</p>\n\n<p>각 테스트 케이스는 한 줄의 텍스트로 이루어져있으며, 최대 18글자로 이루어져 있다. 비어있는 줄은 없다.</p>",
+  "outputDesc": "<p>각 테스트 케이스에 대해 정답을 출력한다.</p>\n\n<p>팰린드롬일 경우 <strong>\"Yes\"</strong>를 출력하고, 그렇지 않을 경우 <strong>\"No\"</strong>를 출력한다.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "구현",
+    "문자열"
+  ],
+  "fetchedAt": "2026-04-16T20:08:23.653Z"
+}

@@ -1,0 +1,5 @@
+from collections import Counter
+input = lambda:int(sys.stdin.readline().rstrip())
+ar = Counter(input()-1 for _ in range(input()))
+for i in sorted(ar):
+    print((str(i+1)+"\n")*ar[i], end="")

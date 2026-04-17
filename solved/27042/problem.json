@@ -1,0 +1,19 @@
+{
+  "problemId": 27042,
+  "title": "Bonbons",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>FJ knows that the cows (like everyone else) love bonbons, which are very expensive candy. He has decided to purchase and give a single bonbon to one of his N (1 ≤ N ≤ 7,100,000) cows (which are conveniently numbered 1..N).  He lines the cows up in order in a circle and starts with cow 1.  He moves to cow 2 and asks her to leave the circle.  He moves to cow 4 and asks her to leave. He continues to ask every other cow to leave the circle until only one remains -- and she gets the bonbon.</p>\n\n<p>Determine which cow gets the bonbon.</p>",
+  "inputDesc": "<ul>\n\t<li>Line 1: A single integer: N</li>\n</ul>",
+  "outputDesc": "<ul>\n\t<li>Line 1: A single integer, the number of the cow that gets the bonbon.</li>\n</ul>",
+  "tags": [
+    "실패",
+    "다국어",
+    "보기",
+    "수학",
+    "자료 구조",
+    "덱",
+    "큐"
+  ],
+  "fetchedAt": "2026-04-16T21:00:21.522Z"
+}

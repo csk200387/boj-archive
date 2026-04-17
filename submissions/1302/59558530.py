@@ -1,0 +1,1 @@
+a,*b=open(0);print(max(sorted(b),key=b.count))

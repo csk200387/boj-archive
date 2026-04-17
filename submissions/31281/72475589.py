@@ -1,0 +1,1 @@
+print(sum(s:=[*map(int,input().split())])-min(s)-max(s))

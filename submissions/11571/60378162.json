@@ -1,0 +1,11 @@
+{
+  "submissionId": 60378162,
+  "problemId": 11571,
+  "problemTitle": "분수를 소수로",
+  "result": "런타임 에러 (ValueError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 754,
+  "submittedAt": "2023년 5월 6일 17:41:45"
+}

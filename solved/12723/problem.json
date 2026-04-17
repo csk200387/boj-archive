@@ -1,0 +1,18 @@
+{
+  "problemId": 12723,
+  "title": "Minimum Scalar Product (Small)",
+  "timeLimit": "5 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>You are given two vectors v<sub>1</sub>=(x<sub>1</sub>,x<sub>2</sub>,...,x<sub>n</sub>) and v<sub>2</sub>=(y<sub>1</sub>,y<sub>2</sub>,...,y<sub>n</sub>). The scalar product of these vectors is a single number, calculated as x<sub>1</sub>y<sub>1</sub>+x<sub>2</sub>y<sub>2</sub>+...+x<sub>n</sub>y<sub>n</sub>.&nbsp;</p>\n\n<p>Suppose you are allowed to permute the coordinates of each vector as you wish. Choose two permutations such that the scalar product of your two new vectors is the smallest possible, and output that minimum scalar product.</p>",
+  "inputDesc": "<p>The first line of the input file contains integer number&nbsp;<strong>T</strong>&nbsp;- the number of test cases. For each test case, the first line contains integer number&nbsp;<strong>n</strong>. The next two lines contain&nbsp;<strong>n</strong>integers each, giving the coordinates of v<sub>1</sub>&nbsp;and v<sub>2</sub>&nbsp;respectively.</p>\n\n<p>Limits</p>\n\n<ul>\n\t<li><strong>T</strong>&nbsp;= 1000</li>\n\t<li>1 ≤&nbsp;<strong>n</strong>&nbsp;≤ 8</li>\n\t<li>-1000 ≤&nbsp;<strong>x</strong><sub>i</sub>,&nbsp;<strong>y</strong><sub>i</sub>&nbsp;≤ 1000</li>\n</ul>",
+  "outputDesc": "<p>For each test case, output a line</p>\n\n<pre>Case #<strong>X</strong>: <strong>Y</strong></pre>\n\n<p>where&nbsp;<strong>X</strong>&nbsp;is the test case number, starting from 1, and&nbsp;<strong>Y</strong>&nbsp;is the minimum scalar product of all permutations of the two given vectors.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "그리디 알고리즘",
+    "브루트포스 알고리즘",
+    "정렬"
+  ],
+  "fetchedAt": "2026-04-16T20:21:13.332Z"
+}

@@ -1,0 +1,11 @@
+{
+  "submissionId": 55409701,
+  "problemId": 25370,
+  "problemTitle": "카드 숫자 곱의 경우의 수",
+  "result": "맞았습니다!!",
+  "memory": 31256,
+  "time": 64,
+  "language": "Python 3 / 수정",
+  "codeLength": 50,
+  "submittedAt": "2023년 2월 7일 16:23:02"
+}

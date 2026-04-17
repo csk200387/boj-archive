@@ -1,0 +1,16 @@
+{
+  "problemId": 27327,
+  "title": "時間 (Hour)",
+  "timeLimit": "2 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p><var>1</var> 日は <var>24</var> 時間である．</p>\n\n<p>整数 <var>X</var> が与えられる． <var>X</var> 日は何時間か求めよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で標準入力から与えられる．</p>\n\n<pre><var>X</var></pre>",
+  "outputDesc": "<p><var>X</var> 日は何時間か，単位 (時間) を省いて出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-16T20:48:57.105Z"
+}

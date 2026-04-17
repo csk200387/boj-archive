@@ -1,0 +1,11 @@
+{
+  "submissionId": 61785450,
+  "problemId": 6588,
+  "problemTitle": "골드바흐의 추측",
+  "result": "맞았습니다!!",
+  "memory": 143412,
+  "time": 732,
+  "language": "PyPy3 / 수정",
+  "codeLength": 685,
+  "submittedAt": "2023년 6월 6일 23:01:15"
+}

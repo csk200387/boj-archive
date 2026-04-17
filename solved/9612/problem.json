@@ -1,0 +1,19 @@
+{
+  "problemId": 9612,
+  "title": "Maximum Word Frequency",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Term frequency–Inverse document frequency (tf-idf) is a numerical statistic which reflects the importance of words in a document collection. It is often used in information retrieval system. The number of times a word appears in the document (word frequency) is one of the major factors to acquire tf-idf.&nbsp;</p>\n\n<p>You are asked to write a program to find the most frequent word in a document.&nbsp;</p>",
+  "inputDesc": "<p>The first line contains an integer n (1≤ n ≤ 1000) which determines the number of words. The following n lines include the list of words, one word per line. A word contains only lower-case letters and it can contain up to 20 characters.&nbsp;</p>",
+  "outputDesc": "<p>Print out the word that has the highest frequency and its frequency, separated by a single space. If you get more than 2 results, choose only the one that comes later in the lexicographical order.&nbsp;</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "자료 구조",
+    "문자열",
+    "정렬",
+    "집합과 맵",
+    "해시를 사용한 집합과 맵"
+  ],
+  "fetchedAt": "2026-04-16T20:05:57.530Z"
+}

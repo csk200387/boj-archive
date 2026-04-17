@@ -1,0 +1,16 @@
+{
+  "problemId": 30224,
+  "title": "Lucky 7",
+  "timeLimit": "5 초 (추가 시간 없음)",
+  "memoryLimit": "1024 MB",
+  "description": "<p>Fact or Fiction, some people consider 7 to be a lucky digit/number.</p>\n\n<p>Given a number, determine how lucky the number is by printing one of four values:</p>\n\n<ul>\n\t<li>Print 0 if the number does not contain 7 and is not divisible by 7.</li>\n\t<li>Print 1 if the number does not contain 7 but is divisible by 7.</li>\n\t<li>Print 2 if the number does contain 7 but is not divisible by 7.</li>\n\t<li>Print 3 if the number does contain 7 and is divisible by 7.</li>\n</ul>",
+  "inputDesc": "<p>There is only one input line; it contains an integer between 1 and 10<sup>9</sup>, inclusive.</p>",
+  "outputDesc": "<p>Print one of the four messages as described above.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-16T20:54:36.844Z"
+}

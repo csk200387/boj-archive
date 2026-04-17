@@ -1,0 +1,5 @@
+n = int(input())
+arr = list(range(1, n+1))
+print(sum(arr))
+print(sum(arr)**2)
+print((n*(n+1)//2)**2)

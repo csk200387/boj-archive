@@ -1,0 +1,14 @@
+{
+  "problemId": 6825,
+  "title": "Body Mass Index",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>The Body Mass Index (BMI) is one of the calculations used by doctors to assess an adult’s health. The doctor measures the patient’s height (in metres) and weight (in kilograms), then calculates the BMI using the formula</p>\n\n<p>BMI = weight/(height × height).</p>\n\n<p>Write a program which prompts for the patient’s height and weight, calculates the BMI, and displays the corresponding message from the table below.</p>\n\n<table class=\"table table-bordered\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th>BMI Category</th>\n\t\t\t<th>Message</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>More than 25</td>\n\t\t\t<td>Overweight</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Between 18.5 and 25.0 (inclusive)</td>\n\t\t\t<td>Normal weight</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Less than 18.5</td>\n\t\t\t<td>Underweight</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-16T20:01:40.925Z"
+}

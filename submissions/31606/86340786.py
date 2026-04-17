@@ -1,0 +1,1 @@
+print(3+int(sum(map(int,open(0)))))

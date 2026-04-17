@@ -1,0 +1,11 @@
+{
+  "submissionId": 53612694,
+  "problemId": 21567,
+  "problemTitle": "숫자의 개수 2",
+  "result": "런타임 에러 (EOFError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 89,
+  "submittedAt": "2023년 1월 6일 15:33:09"
+}

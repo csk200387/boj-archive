@@ -1,0 +1,11 @@
+{
+  "submissionId": 57840025,
+  "problemId": 1259,
+  "problemTitle": "팰린드롬수",
+  "result": "런타임 에러 (NoSuchElement)",
+  "memory": 0,
+  "time": 0,
+  "language": "Java 11 / 수정",
+  "codeLength": 558,
+  "submittedAt": "2023년 3월 21일 14:02:20"
+}

@@ -1,0 +1,11 @@
+{
+  "submissionId": 70018244,
+  "problemId": 10941,
+  "problemTitle": "BASE16 디코딩",
+  "result": "런타임 에러 (AttributeError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 62,
+  "submittedAt": "2023년 12월 4일 20:05:03"
+}

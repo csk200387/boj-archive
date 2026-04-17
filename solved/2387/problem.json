@@ -1,0 +1,16 @@
+{
+  "problemId": 2387,
+  "title": "Howl",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>On a full moon, one might be able to hear a wolf howl in the distance. You manage to come across a wolf howling at the moon, and you want to capture the beautiful image. Unfortunately, you left your camera at home, so you decide to just create the picture on your computer! Create the image of a wolf howling as shown below.</p>",
+  "inputDesc": "<p>None.</p>",
+  "outputDesc": "<p>The wolf art, exactly as shown below, with no extra blank spaces. In particular, a line must not end with a blank space. The eye of the wolf is a back-tick character (same keyboard key as, ~, tilde).</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "언어 제한",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-16T19:42:18.728Z"
+}

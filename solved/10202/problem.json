@@ -1,0 +1,16 @@
+{
+  "problemId": 10202,
+  "title": "Longest Subsequence",
+  "timeLimit": "1 초",
+  "memoryLimit": "256 MB",
+  "description": "<p>Gru and Lucy are trying to break into El Macho’s lair. They arrive at a hallway that they need to walk across, which is likely booby-trapped. The hallway is a single line of squares, each of which is annotated either X or O. Gru believes that the only “safe” squares are the ones that comprise the longest subsequence of X’s, i.e., the longest contiguous set of squares that are all annotated X.</p>\n\n<p>Your goal is to help Gru find the safe squares to jump on.</p>",
+  "inputDesc": "<p>The first line in the test data file contains the number of test cases (&lt; 100). After that, each line contains one test case: the first number is the number of entries in the sequence, n (provided as an int), and the next n Strings (which can only be “X” or “O”) are the sequence itself.</p>",
+  "outputDesc": "<p>For each test case, you are to find the longest subsequence of consecutive X’s, and output the number of X’s in that sequence. The exact format is shown below in the examples.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현",
+    "문자열"
+  ],
+  "fetchedAt": "2026-04-16T20:08:49.574Z"
+}

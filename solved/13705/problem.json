@@ -1,0 +1,18 @@
+{
+  "problemId": 13705,
+  "title": "Ax+Bsin(x)=C",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>A, B, C가 주어졌을 때, Ax+Bsin(x)=C를 만족하는 x를 찾는 프로그램을 작성하시오.</p>",
+  "inputDesc": "<p>첫째 줄에 정수 A, B, C가 주어진다. (0 &lt; B ≤ A ≤ 100,000, 0 &lt; C ≤ 100,000)</p>",
+  "outputDesc": "<p>첫째 줄에 x를 반올림해서 소수점 여섯째 자리까지 출력한다.</p>",
+  "tags": [
+    "실패",
+    "보기",
+    "수학",
+    "이분 탐색",
+    "임의 정밀도 / 큰 수 연산",
+    "수치해석"
+  ],
+  "fetchedAt": "2026-04-16T20:59:45.483Z"
+}

@@ -1,0 +1,11 @@
+{
+  "submissionId": 59575061,
+  "problemId": 10815,
+  "problemTitle": "숫자 카드",
+  "result": "런타임 에러 (AttributeError)",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 138,
+  "submittedAt": "2023년 4월 18일 19:00:04"
+}

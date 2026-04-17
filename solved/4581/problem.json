@@ -1,0 +1,16 @@
+{
+  "problemId": 4581,
+  "title": "Voting",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>A committee clerk is good at recording votes, but not so good at counting and figuring the outcome correctly. &nbsp;As a roll call vote proceeds, the clerk records votes as a sequence of letters, with one letter for every member of the committee:</p>\n\n<ul>\n\t<li>Y means a yes vote</li>\n\t<li>N means a no vote</li>\n\t<li>P means present, but choosing not to vote</li>\n\t<li>A indicates a member who was absent from the meeting</li>\n</ul>\n\n<p>Your job is to take this recorded list of votes and determine the outcome.</p>\n\n<p>Rules: There must be a quorum. &nbsp;If at least half of the members were absent, respond \"need quorum\". &nbsp;Otherwise votes are counted. &nbsp; If there are more yes than no votes, respond \"yes\". &nbsp; If there are more no than yes votes, respond \"no\". &nbsp; If there are the same number of yes and no votes, respond \"tie\".&nbsp;</p>",
+  "inputDesc": "<p>The input contains of a series of votes, one per line, followed by a single line with the # character. Each vote consists entirely of the uppercase letters discussed above. Each vote will contain at least two letters and no more than 70 letters.</p>",
+  "outputDesc": "<p>For each vote, the output is one line with the correct choice \"need quorum\", \"yes\", \"no\" or \"tie\".</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현",
+    "문자열"
+  ],
+  "fetchedAt": "2026-04-16T19:55:10.101Z"
+}

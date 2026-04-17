@@ -1,0 +1,15 @@
+{
+  "problemId": 8712,
+  "title": "Wężyk",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Ulubioną zabawą Stasia jest gra w \"wężyka\". Polega ona na tym, że najpierw wybiera sobie jedną liczbę całkowitą <em>n</em>, a następnie zaczyna na kartce zapisywać kolejne liczby naturalne. Chłopiec zapisuje łącznie&nbsp;<em>n</em>&nbsp;wierszy, w każdym z nich po&nbsp;<em>n</em>&nbsp;liczb.</p>\n\n<p>W pierwszym wierszu Staś wypisuje liczby od 1 do <em>n</em>&nbsp;od lewej do prawej. Drugi wiersz wypełnia jednak od prawej do lewej liczbami od <em>n</em> + 1&nbsp;do 2<em>n</em>. I tak dalej: wiersze o numerach nieparzystych wypełnia od lewej do prawej, a te o numerach parzystych - od prawej do lewej.</p>\n\n<p>Twoim zadaniem jest napisanie programu, który będzie automatycznie grał w \"wężyka\".</p>",
+  "inputDesc": "<p>W pierwszym i jedynym wierszu wejścia znajduje się jedna liczba naturalna&nbsp;<em>n</em>&nbsp;(1 ≤ <em>n</em> ≤ 100).</p>",
+  "outputDesc": "<p>Na wyjście należy wypisać <em>n</em>&nbsp;wierszy, w każdym z nich po&nbsp;<em>n</em>&nbsp;liczb naturalnych. Razem ma zostać wypisanych <em>n</em><sup>2</sup>&nbsp;liczb: wszystkie liczby naturalne od 1&nbsp;do&nbsp;<em>n</em><sup>2</sup>. W każdym wierszu wypisane liczby powinny być pooddzielane pojedynczymi odstępami.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-16T20:03:29.370Z"
+}

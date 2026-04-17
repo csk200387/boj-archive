@@ -1,0 +1,1 @@
+n,*m=open(0);print(m.count(n))

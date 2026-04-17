@@ -1,0 +1,11 @@
+{
+  "submissionId": 50726609,
+  "problemId": 10974,
+  "problemTitle": "모든 순열",
+  "result": "맞았습니다!!",
+  "memory": 120932,
+  "time": 176,
+  "language": "PyPy3 / 수정",
+  "codeLength": 145,
+  "submittedAt": "2022년 10월 19일 15:48:24"
+}

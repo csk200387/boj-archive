@@ -1,0 +1,11 @@
+{
+  "submissionId": 57534471,
+  "problemId": 15719,
+  "problemTitle": "중복된 숫자",
+  "result": "맞았습니다!!",
+  "memory": 400336,
+  "time": 2784,
+  "language": "PyPy3 / 수정",
+  "codeLength": 191,
+  "submittedAt": "2023년 3월 16일 16:56:16"
+}

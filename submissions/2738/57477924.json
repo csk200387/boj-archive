@@ -1,0 +1,11 @@
+{
+  "submissionId": 57477924,
+  "problemId": 2738,
+  "problemTitle": "행렬 덧셈",
+  "result": "런타임 에러 (ValueError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 254,
+  "submittedAt": "2023년 3월 15일 18:25:49"
+}

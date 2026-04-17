@@ -1,0 +1,11 @@
+{
+  "submissionId": 65677742,
+  "problemId": 6566,
+  "problemTitle": "애너그램 그룹",
+  "result": "시간 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 494,
+  "submittedAt": "2023년 8월 27일 14:15:39"
+}

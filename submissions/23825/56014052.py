@@ -1,0 +1,1 @@
+print(min(map(int,open().split()))//2)

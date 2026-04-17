@@ -1,0 +1,16 @@
+{
+  "problemId": 27332,
+  "title": "11 月 (November)",
+  "timeLimit": "2 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p><var>2</var> つの整数 <var>A, B</var> が与えられる．</p>\n\n<p><var>2022</var> 年 <var>11</var> 月 <var>A</var> 日の <var>B</var> 週間後の日が <var>2022</var> 年 <var>11</var> 月ならば <var>1</var> を，<var>2022</var> 年 <var>11</var> 月でないならば <var>0</var> を出力せよ．</p>\n\n<p>ただし，<var>2022</var> 年 <var>11</var> 月は <var>2022</var> 年 <var>11</var> 月 <var>1</var> 日から <var>2022</var> 年 <var>11</var> 月 <var>30</var> 日までの <var>30</var> 日間であり，<var>x</var> 週間後の日とは <var>(7 × x)</var> 日後の日のことを指す．</p>",
+  "inputDesc": "<p>入力は以下の形式で与えられる．</p>\n\n<pre><var>A</var>\n<var>B</var></pre>",
+  "outputDesc": "<p><var>2022</var> 年 <var>11</var> 月 <var>A</var> 日の <var>B</var> 週間後の日が <var>2022</var> 年 <var>11</var> 月ならば <var>1</var> を，<var>2022</var> 年 <var>11</var> 月でないならば <var>0</var> を出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-16T20:49:11.205Z"
+}

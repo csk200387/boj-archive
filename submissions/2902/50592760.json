@@ -1,0 +1,11 @@
+{
+  "submissionId": 50592760,
+  "problemId": 2902,
+  "problemTitle": "KMP는 왜 KMP일까?",
+  "result": "맞았습니다!!",
+  "memory": 30840,
+  "time": 68,
+  "language": "Python 3 / 수정",
+  "codeLength": 84,
+  "submittedAt": "2022년 10월 15일 22:57:52"
+}
